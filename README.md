@@ -1,7 +1,5 @@
 # QuakeSnake
  QuakeSnake Game
- 
-![Desktop 2022 06 19 - 11 20 45 02 DVR_1](https://github.com/Roenich/QuakeSnake/assets/54147074/67f68e83-90b4-4b25-a149-8edd58c539ac)
 
 DESCRIPTION:
 
