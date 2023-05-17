@@ -1,5 +1,5 @@
-# Snake_Quake
- Snake_Quake Game
+# QuakeSnake
+ QuakeSnake Game
 
 ![Snake_Quake_Gameplay](https://github.com/Roenich/QuakeSnake/assets/54147074/30e8a037-eb0b-4ee8-8ee6-4bd2e41984f9)
 
